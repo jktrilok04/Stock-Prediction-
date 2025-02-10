@@ -49,8 +49,8 @@ The goal of this project is to build a predictive model that can analyze histori
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
-   cd <project_directory>
+   git clone https://github.com/jktrilok04/Stock-Prediction-.git
+   cd stock-prediction
    ```
 2. Install dependencies:
    ```bash
